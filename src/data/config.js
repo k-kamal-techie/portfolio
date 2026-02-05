@@ -8,8 +8,8 @@ export const siteConfig = {
   resumeUrl: "/resume.pdf",
 
   social: {
-    github: "https://github.com/yourusername", // Update with your GitHub
-    linkedin: "https://linkedin.com/in/yourusername", // Update with your LinkedIn
+    github: "https://github.com/k-kamal-techie",
+    linkedin: "https://www.linkedin.com/in/kamaldroxtar",
     twitter: "https://twitter.com/yourusername", // Update with your Twitter
   },
 

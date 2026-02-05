@@ -52,8 +52,9 @@ export const leadershipResponsibilities = {
 };
 
 export const teamMembers = [
-  "Ankit Mandli",
+  "Mahesh Pawar",
   "Gaurang Sharma",
-  "Krishna Thapa",
-  "Neeraj Agarwal",
+  "Rounak Bhardwaj",
+  "Jayant Raikwar",
+  "Gagan Tiwari",
 ];

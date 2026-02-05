@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaCode, FaServer, FaDatabase, FaCloud, FaTools, FaUsers } from 'react-icons/fa';
+import { FaCode, FaServer, FaDatabase, FaCloud, FaTools, FaUsers, FaBrain } from 'react-icons/fa';
 import { skillsData, technologyEcosystem } from '../data/skills';
 import SEO from '../components/common/SEO';
 
@@ -48,6 +48,7 @@ const Skills = () => {
     { title: "Databases", icon: FaDatabase, skills: skillsData.databases },
     { title: "Web Servers", icon: FaServer, skills: skillsData.webServers },
     { title: "DevOps & Cloud", icon: FaCloud, skills: skillsData.devops },
+    { title: "AI & Machine Learning", icon: FaBrain, skills: skillsData.ai },
     { title: "Tools & Version Control", icon: FaTools, skills: skillsData.tools },
   ];
 

@@ -39,6 +39,17 @@ export const skillsData = {
     { name: "Cloudflare", level: 80, icon: "SiCloudflare" },
   ],
 
+  ai: [
+    { name: "AI / LLM Integration", level: 85, icon: "SiOpenai" },
+    { name: "Vector Embeddings", level: 85, icon: "SiTensorflow" },
+    { name: "FAISS", level: 80, icon: "SiMeta" },
+    { name: "Vector Search", level: 85, icon: "FaSearch" },
+    { name: "Semantic Search", level: 80, icon: "FaBrain" },
+    { name: "RAG (Retrieval-Augmented Generation)", level: 80, icon: "SiOpenai" },
+    { name: "Pinecone / Weaviate", level: 75, icon: "SiPinecone" },
+    { name: "LangChain", level: 75, icon: "SiChainlink" },
+  ],
+
   monitoring: [
     { name: "New Relic", level: 85, icon: "SiNewrelic" },
     { name: "Log Management", level: 90, icon: "FaFileAlt" },
@@ -71,6 +82,7 @@ export const technologyEcosystem = {
   monitoring: "New Relic, custom scripts, log rotation",
   authSecurity: "OAuth 2.0, JWT, SSL/TLS, security headers",
   architecture: "Microservices, event-driven, webhook processing",
+  ai: "LLM Integration, Vector Embeddings, FAISS, Semantic Search, RAG",
 };
 
 export const certifications = [
